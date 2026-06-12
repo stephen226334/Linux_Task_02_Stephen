@@ -100,7 +100,7 @@ Screenshots:
 
 - PartC_ownership_before.png
 - PartC_ownership_after.png
-- ![PartC](Screenshots/screenshot3.jpeg)
+- ![PartC](Screenshots/screenshot5.jpeg)
 
 ---
 
@@ -155,7 +155,7 @@ Screenshots:
 - PartD_readonly.png
 - PartD_readwrite.png
 - PartD_fullaccess.png
-- ![PartD](Screenshots/screenshot5.jpeg)
+- ![PartD](Screenshots/screenshot6.jpeg)
 
 ---
 
@@ -170,7 +170,7 @@ Screenshots:
 | 700 | Only owner has full access |
 
 Detailed analysis is available in Permission_Analysis.txt.
-![PartE](Screenshots/screenshot5.jpeg)
+
 
 ---
 
