@@ -28,9 +28,9 @@ cat /etc/passwd
 
 Screenshots:
 
-- PartA_whoami.png
-- PartA_id.png
-- PartA_passwd.png
+- S1_whoami
+- S1_id
+- S1_passwd
   ![PartA](Screenshots/screenshot1.jpeg)
 
 ---
@@ -62,8 +62,8 @@ id student3
 
 Screenshots:
 
-- PartB_groups.png
-- PartB_users.png
+- S2_groups.png
+- S2_users.png
 - ![PartB](Screenshots/screenshot2.jpeg)
 
 ---
@@ -98,8 +98,8 @@ sudo chown student1 report.txt
 
 Screenshots:
 
-- PartC_ownership_before.png
-- PartC_ownership_after.png
+- S5_ownership_before.png
+- S5_ownership_after.png
 - ![PartC](Screenshots/screenshot5.jpeg)
 
 ---
@@ -152,9 +152,9 @@ Result:
 
 Screenshots:
 
-- PartD_readonly.png
-- PartD_readwrite.png
-- PartD_fullaccess.png
+- S6_readonly.png
+- S6_readwrite.png
+- S6_fullaccess.png
 - ![PartD](Screenshots/screenshot6.jpeg)
 
 ---
