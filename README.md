@@ -31,6 +31,7 @@ Screenshots:
 - PartA_whoami.png
 - PartA_id.png
 - PartA_passwd.png
+  ![PartA](Screenshots/screenshot1.jpeg)
 
 ---
 
